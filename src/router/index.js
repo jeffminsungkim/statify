@@ -17,13 +17,13 @@ export default new Router({
 
     {
       path: '/applog',
-      name: 'AppLog',
+      name: 'app-log',
       component: AppLog
     },
 
     {
       path: '/devicelog',
-      name: 'DeviceLog',
+      name: 'device-log',
       component: DeviceLog
     }
   ]
